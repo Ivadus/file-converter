@@ -1,0 +1,6 @@
+pillow
+pillow_heif
+ffmpeg-python
+rawpy
+imageio
+tkinterdnd2
